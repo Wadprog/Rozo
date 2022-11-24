@@ -28,5 +28,12 @@
       "passwordField": "password"
     }
   },
+{
+  "dbSettings": {
+    "username": "MYSQLDB_USER",
+    "password": "MYSQLDB_ROOT_PASSWORD",
+    "database": "MYSQLDB_DATABASE",
+  },
+
   "mysql": "mysql://root:@localhost:3306/arg_automation"
 }
